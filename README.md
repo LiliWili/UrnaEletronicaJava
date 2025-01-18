@@ -49,7 +49,7 @@ Caso não tenha o JDK instalado, baixe e instale através do [site oficial do Ja
    
 2. Compile os arquivos no terminal:
    ```
-   javac UrnaEletronica.java SimulacaoUrna.java Candidato.java
+   javac UrnaEletronicaJava.java Candidato.java
 3.  Execute o programa:
     ```
     java SimulacaoUrna
