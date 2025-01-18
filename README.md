@@ -23,7 +23,7 @@ Os candidatos pré-configurados são:
 
 ## Funcionalidades
 
-- *Entrada de votos*: O sistema aceita números de 01 a 05 para os candidatos. Outros números ou entradas inválidas são contabilizados como votos nulos.
+- *Entrada de votos*: O sistema aceita números de 01 a 05 para os candidatos. Outros números são contabilizados como votos nulos.
 - *Validação de votos*: Garante que apenas números válidos sejam registrados.
 - *Apuração dos resultados*: Calcula os votos de cada candidato e identifica o vencedor.
 - *Exibição dos resultados*: Mostra os votos individuais, percentuais, número de votos nulos e o vencedor ou empate.
