@@ -11,16 +11,6 @@ O programa permite que os usuários votem em candidatos fictícios. Após a vota
 - Quantidade de votos nulos.
 - Nome do candidato vencedor ou empate.
 
-## Candidatos
-
-Os candidatos pré-configurados são:
-
-- *01* - Ada Lovelace  
-- *02* - Alan Turing  
-- *03* - Marie Curie  
-- *04* - Albert Einstein  
-- *05* - Ludwig van Beethoven  
-
 ## Funcionalidades
 
 - *Entrada de votos*: O sistema aceita números de 01 a 05 para os candidatos. Outros números são contabilizados como votos nulos.
@@ -31,8 +21,7 @@ Os candidatos pré-configurados são:
 ## Estrutura do Projeto
 
 - *Candidato*: Classe que representa os candidatos, com atributos para nome, número e quantidade de votos.
-- *UrnaEletronica*: Classe principal que gerencia os candidatos, votos e apuração.
-- *SimulacaoUrna*: Classe com o método main que executa a simulação completa da urna.
+- *UrnaEletronica*: Classe principal que gerencia os candidatos, votos e apuração com o método main que executa a simulação completa da urna.
 
 ## Tecnologias Utilizadas
 
